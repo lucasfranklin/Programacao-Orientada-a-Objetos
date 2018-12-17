@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1381718789 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\main.cpp
+	<iostream>
+	"include/C.h"
+
+1383444102 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\include\c.h
+	"A.h"
+	"B.h"
+
+1383444096 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\include\a.h
+	<iostream>
+
+1383444101 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\include\b.h
+	<iostream>
+
+1383444098 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\src\a.cpp
+	"../include/A.h"
+
+1381718738 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\src\b.cpp
+	"../include/B.h"
+
+1383444100 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.7\src\c.cpp
+	"../include/C.h"
+

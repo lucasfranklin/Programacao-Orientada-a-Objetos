@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1383100791 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.4\main.cpp
+	<iostream>
+	"include/IntegerSet.h"
+
+1383163620 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.4\include\integerset.h
+	<string>
+	<iostream>
+	<fstream>
+
+1383160799 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.4\src\integerset.cpp
+	"../include/IntegerSet.h"
+

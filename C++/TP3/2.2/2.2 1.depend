@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1383057844 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.2\main.cpp
+	<iostream>
+	<vector>
+	"include/Matriz.h"
+
+1383071462 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.2\include\matriz.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"../../2.1/include/CVetor.h"
+
+1383059682 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.1\include\cvetor.h
+	<iostream>
+
+1383155802 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.1\src\cvetor.cpp
+	"../include/CVetor.h"
+
+1383143521 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.2\src\matriz.cpp
+	"../include/Matriz.h"
+	"../../2.1/src/CVetor.cpp"
+

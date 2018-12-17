@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385390930 source:c:\users\lucasfranklin\skydrive\programação\c++\tp4\2.5\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1383444481 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.6\main.cpp
+	<iostream>
+	<fstream>
+	"include/List.h"
+
+1383444516 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.6\include\list.h
+	<iostream>
+	<fstream>
+

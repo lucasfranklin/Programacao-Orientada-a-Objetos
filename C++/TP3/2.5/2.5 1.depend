@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1381115880 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\main.cpp
+	<iostream>
+	"include/CWindowSingleton.h"
+
+1383352850 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\include\cwindowsingleton.h
+	<string>
+	<iostream>
+	<fstream>
+	"Color.h"
+
+1382279195 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\include\color.h
+	<string>
+	<iostream>
+	<sstream>
+
+1383145337 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\src\color.cpp
+	"../include/Color.h"
+
+1383180162 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\src\cwindow.cpp
+	"../include/CWindow.h"
+
+1383180090 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.5\include\cwindow.h
+	<iostream>
+	<fstream>
+	<string>
+	"Color.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1383074096 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.3\src\racional.cpp
+	"../include/Racional.h"
+	<cmath>
+
+1383073935 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.3\include\racional.h
+	<cmath>
+	<iostream>
+	<string>
+
+1383074085 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.3\main.cpp
+	<iostream>
+	<vector>
+	"include\Racional.h"
+
