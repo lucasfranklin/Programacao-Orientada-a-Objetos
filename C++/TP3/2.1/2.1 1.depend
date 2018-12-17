@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383053317 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.1\main.cpp
+	<iostream>
+	"include/CVetor.h"
+
+1383059682 c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.1\include\cvetor.h
+	<iostream>
+
+1383144025 source:c:\users\lucasfranklin\skydrive\programação\c++\tp3\2.1\src\cvetor.cpp
+	"../include/CVetor.h"
+

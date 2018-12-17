@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380398232 source:c:\users\lucasfranklin\skydrive\programação\c++\tp2\2.1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

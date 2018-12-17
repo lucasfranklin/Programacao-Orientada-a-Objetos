@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1380732162 source:c:\users\lucasfranklin\skydrive\programação\c++\tp2\2.8\main.cpp
+	<iostream>
+	<vector>
+	"include/Matriz.h"
+
+1380852527 source:c:\users\lucasfranklin\skydrive\programação\c++\tp2\2.8\src\matriz.cpp
+	"../include/Matriz.h"
+
+1380852551 c:\users\lucasfranklin\skydrive\programação\c++\tp2\2.8\include\matriz.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
